@@ -1,0 +1,6 @@
+host #reason
+host:port
+IP
+IP:port
+[IPV6]:port
+*.domain
